@@ -14,3 +14,7 @@ def elements(request):
 def blog_details(request):
 
 	return render(request, 'blog_details.html')
+#
+# logger = logging.getLogger('users');
+#
+# logger.debug('user id:'+id)

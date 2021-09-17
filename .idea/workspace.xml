@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8959a2d8-a160-4e58-84b7-64337811eedf" name="Default Changelist" comment="" />
+    <list default="true" id="8959a2d8-a160-4e58-84b7-64337811eedf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project03/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project03/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project03/project03/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project03/project03/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project03" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,6 +36,8 @@
       <option name="presentableId" value="Default" />
       <updated>1630974686807</updated>
       <workItem from="1630974690214" duration="30000" />
+      <workItem from="1631061123278" duration="8000" />
+      <workItem from="1631838220239" duration="12000" />
     </task>
     <servers />
   </component>

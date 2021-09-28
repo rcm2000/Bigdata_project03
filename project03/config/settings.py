@@ -127,6 +127,7 @@ os.path.join(BASE_DIR, 'static')
 
 ]
 
+
 DATA_DIRS = [
 
 os.path.join(BASE_DIR, 'data')
